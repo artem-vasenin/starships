@@ -76,7 +76,7 @@
           </div>
         </v-list>
         <v-card-text v-else>
-          <p>Список кораблей подгружается</p>
+          <p>Список кораблей пуст</p>
         </v-card-text>
       </v-card>
     </v-flex>
