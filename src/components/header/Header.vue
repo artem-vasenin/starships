@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-toolbar>
+    <v-toolbar fixed>
       <v-btn icon to="/">
         <v-icon>home</v-icon>
       </v-btn>
