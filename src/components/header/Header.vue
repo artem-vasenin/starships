@@ -15,7 +15,7 @@
     </v-toolbar>
 
     <v-progress-linear
-      class="ma-0"
+      class="ma-0 mt-3 progress"
       :indeterminate="loading"
       color="secondary"
       height="3"
